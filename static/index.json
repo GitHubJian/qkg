@@ -1,0 +1,10 @@
+{
+    "global": {
+        "js": "/js/global.js",
+        "css": "/css/global.css"
+    },
+    "index": {
+        "js": "/js/index.js",
+        "css": "/css/index.css"
+    }
+}

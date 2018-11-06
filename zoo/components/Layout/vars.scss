@@ -1,0 +1,8 @@
+$asideWidth: 240;
+$navHeight: 55;
+
+$logoHeight: 55;
+
+@mixin wcalc($exp) {
+    width: calc($exp);
+}
